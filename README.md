@@ -78,7 +78,7 @@ Only adds to the queue if the queue count is below your specified limit.
 Returns `true` if it was added, `false` if skipped.
 
 ```csharp
-bool success = ToastNotification.ConditionalQueueToast(3, "Queued Conditionally", "Won't queue if too many toasts are pending.");
+bool success = ToastNotification.TryQueueToast(3, "Queued Conditionally", "Won't queue if too many toasts are pending.");
 ```
 
 ---
