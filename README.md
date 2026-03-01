@@ -1,3 +1,8 @@
+# Archived
+
+This has been archived. melonloader as it stands does not work on vrchat.
+I dont inteand to maintain this page for that reason.
+
 # Edens Toast Notifications
 
 A simple toast notification API for VRChat mods built using MelonLoader.  
